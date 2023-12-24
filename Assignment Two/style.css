@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgba(46, 196, 182, 4%);
+}
+.sign-up {
+    display: flex;
+
+}
+.logo-text {
+    max-width: 460px;
+    max-height: 275px;
+    margin-top: 200px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.form {
+    background-color: #FFFFFF;
+    /* padding: 40px; */
+    width: 580px;
+    height: 679px;
+    border-radius: 6px;
+    box-shadow: 2px 4px 4px rgba(4,8,19, 10%);
+    margin-top: 100px; 
+}
+
+form {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+select, input, option {
+    width: 215px;
+    height: 48px;
+}
+
+.long-span, .main-form {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.text-field {
+    margin-top: 30px;
+}
+
+.input-field {
+    display: flex;
+    gap: 30px;
+}
+
+.btn {
+    background-color: #2EC4B6;
+    border: none;
+    box-shadow: 1px 2px 2px grey;
+    margin-top: 30px;
+}
